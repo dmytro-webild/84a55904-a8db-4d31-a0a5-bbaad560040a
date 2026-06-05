@@ -44,7 +44,7 @@ export default function LandingPage() {
         {
           name: "Контакты",          id: "#contact"},
         {
-          name: "Telegram",          href: "https://t.me/SbQkYDjJ"}
+          name: "Telegram",          id: "https://t.me/SbQkYDjJ"}
       ]}
       brandName="АвтоСервис Эксперт"
     />
