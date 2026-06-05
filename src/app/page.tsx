@@ -78,32 +78,32 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "carousel-1",
-          imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-using-lamp-while-repairing-engine-workshop_637285-4295.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-using-lamp-while-repairing-engine-workshop_637285-4295.jpg?_wi=1",
           imageAlt: "Механик ремонтирует двигатель автомобиля",
         },
         {
           id: "carousel-2",
-          imageSrc: "http://img.b2bpic.net/free-photo/mid-adult-mechanic-examining-vehicle-hood-while-working-auto-repair-shop_637285-7664.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mid-adult-mechanic-examining-vehicle-hood-while-working-auto-repair-shop_637285-7664.jpg?_wi=1",
           imageAlt: "Профессиональная полировка автомобиля",
         },
         {
           id: "carousel-3",
-          imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-adjusting-tire-pressure-while-working-auto-repair-shop_637285-7612.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-adjusting-tire-pressure-while-working-auto-repair-shop_637285-7612.jpg?_wi=1",
           imageAlt: "Замена шин в автосервисе",
         },
         {
           id: "carousel-4",
-          imageSrc: "http://img.b2bpic.net/free-photo/focused-manly-woman-is-doing-car-diagnostic-with-computer-help-auto-service_613910-17106.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/focused-manly-woman-is-doing-car-diagnostic-with-computer-help-auto-service_613910-17106.jpg?_wi=1",
           imageAlt: "Диагностика автомобиля компьютером",
         },
         {
           id: "carousel-5",
-          imageSrc: "http://img.b2bpic.net/free-photo/hands-craftswoman-working-machine_107420-65305.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/hands-craftswoman-working-machine_107420-65305.jpg?_wi=1",
           imageAlt: "Ремонт тормозной системы автомобиля",
         },
         {
           id: "carousel-6",
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-wrapping-car-work_23-2149385696.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-wrapping-car-work_23-2149385696.jpg?_wi=1",
           imageAlt: "Кузовной ремонт и покраска автомобиля",
         },
       ]}
@@ -268,7 +268,7 @@ export default function LandingPage() {
           tag: "Ремонт двигателя",
           avatarSrc: "http://img.b2bpic.net/free-photo/salesman-car-showroom_1303-14591.jpg",
           avatarAlt: "Анна Петрова",
-          imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-using-lamp-while-repairing-engine-workshop_637285-4295.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-using-lamp-while-repairing-engine-workshop_637285-4295.jpg?_wi=2",
           imageAlt: "professional man smiling car owner",
         },
         {
@@ -280,7 +280,7 @@ export default function LandingPage() {
           tag: "Плановое ТО",
           avatarSrc: "http://img.b2bpic.net/free-photo/helpdesk-support-information-support-concept_53876-121537.jpg",
           avatarAlt: "Иван Смирнов",
-          imageSrc: "http://img.b2bpic.net/free-photo/mid-adult-mechanic-examining-vehicle-hood-while-working-auto-repair-shop_637285-7664.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mid-adult-mechanic-examining-vehicle-hood-while-working-auto-repair-shop_637285-7664.jpg?_wi=2",
           imageAlt: "professional man smiling car owner",
         },
         {
@@ -292,7 +292,7 @@ export default function LandingPage() {
           tag: "Кузовной ремонт",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-caucasian-man_641386-12.jpg",
           avatarAlt: "Елена Кузнецова",
-          imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-adjusting-tire-pressure-while-working-auto-repair-shop_637285-7612.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-adjusting-tire-pressure-while-working-auto-repair-shop_637285-7612.jpg?_wi=2",
           imageAlt: "professional man smiling car owner",
         },
         {
@@ -304,7 +304,7 @@ export default function LandingPage() {
           tag: "Замена масла",
           avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-twins-christmas-outfits_651396-1199.jpg",
           avatarAlt: "Сергей Иванов",
-          imageSrc: "http://img.b2bpic.net/free-photo/focused-manly-woman-is-doing-car-diagnostic-with-computer-help-auto-service_613910-17106.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/focused-manly-woman-is-doing-car-diagnostic-with-computer-help-auto-service_613910-17106.jpg?_wi=2",
           imageAlt: "professional man smiling car owner",
         },
         {
@@ -316,7 +316,7 @@ export default function LandingPage() {
           tag: "Диагностика",
           avatarSrc: "http://img.b2bpic.net/free-photo/even-while-pitching-tent-we-have-fun_329181-10578.jpg",
           avatarAlt: "Ольга Васильева",
-          imageSrc: "http://img.b2bpic.net/free-photo/hands-craftswoman-working-machine_107420-65305.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/hands-craftswoman-working-machine_107420-65305.jpg?_wi=2",
           imageAlt: "professional man smiling car owner",
         },
         {
@@ -328,7 +328,7 @@ export default function LandingPage() {
           tag: "Ремонт подвески",
           avatarSrc: "http://img.b2bpic.net/free-photo/business-men-work-with-laptops-side-car_1359-1185.jpg",
           avatarAlt: "Дмитрий Морозов",
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-wrapping-car-work_23-2149385696.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-wrapping-car-work_23-2149385696.jpg?_wi=2",
           imageAlt: "professional man smiling car owner",
         },
       ]}
